@@ -1,11 +1,11 @@
-@define-color bg #2B2A27;
-@define-color fg #E6DCC6;
-@define-color gray1 #7C9A4D;
-@define-color gray2 #4A463F;
-@define-color gray3 #4A5D6B;
-@define-color gray4 #D9A441;
-@define-color gray5 #B07A8C;
-@define-color fg_bright #FFF6E6;
+@define-color bg #1a1b26;
+@define-color fg #c0caf5;
+@define-color gray1 #9ece6a;
+@define-color gray2 #3b4261;
+@define-color gray3 #7aa2f7;
+@define-color gray4 #e0af68;
+@define-color gray5 #bb9af7;
+@define-color fg_bright #c0caf5;
 
 window {
     background-color: @bg;

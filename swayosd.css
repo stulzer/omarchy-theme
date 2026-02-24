@@ -1,8 +1,8 @@
-@define-color background-color #2B2A27;
-@define-color border-color     #D9A441;
-@define-color label            #E6DCC6;
-@define-color image            #E6DCC6;
-@define-color progress         #D9A441;
+@define-color background-color #1a1b26;
+@define-color border-color     #7aa2f7;
+@define-color label            #c0caf5;
+@define-color image            #c0caf5;
+@define-color progress         #7aa2f7;
 
 window {
     background-color: transparent;
@@ -41,7 +41,7 @@ progressbar {
 }
 
 progressbar trough {
-    background: alpha(#4A463F, 0.4);
+    background: alpha(#3b4261, 0.4);
     border-radius: 999px;
     border: none;
     min-height: 6px;

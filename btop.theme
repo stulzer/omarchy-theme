@@ -1,70 +1,70 @@
 # Main background
-theme[main_bg]="#2B2A27"
+theme[main_bg]="#1a1b26"
 
 # Main text color
-theme[main_fg]="#E6DCC6"
+theme[main_fg]="#c0caf5"
 
 # Title color for boxes
-theme[title]="#D9A441"
+theme[title]="#e0af68"
 
 # Highlight color for keyboard shortcuts
-theme[hi_fg]="#7C9A4D"
+theme[hi_fg]="#9ece6a"
 
 # Background color of selected item
-theme[selected_bg]="#3A3833"
+theme[selected_bg]="#414868"
 
 # Foreground of selected item
-theme[selected_fg]="#FFF6E6"
+theme[selected_fg]="#c0caf5"
 
 # Inactive/disabled text
-theme[inactive_fg]="#6B675E"
+theme[inactive_fg]="#a9b1d6"
 
 # Misc process text & small graphs
-theme[proc_misc]="#B07A8C"
+theme[proc_misc]="#bb9af7"
 
 # Box outlines
-theme[cpu_box]="#7C9A4D"
-theme[mem_box]="#D9A441"
-theme[net_box]="#5E8C83"
-theme[proc_box]="#4A5D6B"
-theme[div_line]="#4A463F"
+theme[cpu_box]="#9ece6a"
+theme[mem_box]="#e0af68"
+theme[net_box]="#7dcfff"
+theme[proc_box]="#7aa2f7"
+theme[div_line]="#3b4261"
 
 # Temperature gradient
-theme[temp_start]="#7DB5AA"
-theme[temp_mid]="#D9A441"
-theme[temp_end]="#C65A3A"
+theme[temp_start]="#7dcfff"
+theme[temp_mid]="#e0af68"
+theme[temp_end]="#f7768e"
 
 # CPU gradient
-theme[cpu_start]="#5E8C83"
-theme[cpu_mid]="#7C9A4D"
-theme[cpu_end]="#D9A441"
+theme[cpu_start]="#7dcfff"
+theme[cpu_mid]="#9ece6a"
+theme[cpu_end]="#e0af68"
 
 # Memory free
-theme[free_start]="#4A5D6B"
-theme[free_mid]="#6F8796"
-theme[free_end]="#7DB5AA"
+theme[free_start]="#7aa2f7"
+theme[free_mid]="#7aa2f7"
+theme[free_end]="#7dcfff"
 
 # Cached
-theme[cached_start]="#D9A441"
-theme[cached_mid]="#F3C35C"
-theme[cached_end]="#F3C35C"
+theme[cached_start]="#e0af68"
+theme[cached_mid]="#faba4a"
+theme[cached_end]="#faba4a"
 
 # Available
-theme[available_start]="#7C9A4D"
-theme[available_mid]="#9DCB5C"
-theme[available_end]="#9DCB5C"
+theme[available_start]="#9ece6a"
+theme[available_mid]="#9fe044"
+theme[available_end]="#9fe044"
 
 # Used memory
-theme[used_start]="#C65A3A"
-theme[used_mid]="#E37B52"
-theme[used_end]="#E37B52"
+theme[used_start]="#f7768e"
+theme[used_mid]="#ff899d"
+theme[used_end]="#ff899d"
 
 # Download
-theme[download_start]="#D9A441"
-theme[download_mid]="#7C9A4D"
-theme[download_end]="#5E8C83"
+theme[download_start]="#e0af68"
+theme[download_mid]="#9ece6a"
+theme[download_end]="#7dcfff"
 
 # Upload
-theme[upload_start]="#5E8C83"
-theme[upload_mid]="#7C9A4D"
-theme[upload_end]="#D9A441"
+theme[upload_start]="#7dcfff"
+theme[upload_mid]="#9ece6a"
+theme[upload_end]="#e0af68"

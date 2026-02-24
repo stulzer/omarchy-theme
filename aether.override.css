@@ -6,25 +6,25 @@
  */
 
 /* Dynamic Color Palette */
-@define-color background #2B2A27;
-@define-color foreground #E6DCC6;
+@define-color background #1a1b26;
+@define-color foreground #c0caf5;
 
-@define-color black #1F1E1B;
-@define-color red #C65A3A;
-@define-color green #7C9A4D;
-@define-color yellow #D9A441;
-@define-color blue #4A5D6B;
-@define-color magenta #B07A8C;
-@define-color cyan #5E8C83;
-@define-color white #F2E9D8;
-@define-color bright_black #3A3833;
-@define-color bright_red #E37B52;
-@define-color bright_green #9DCB5C;
-@define-color bright_yellow #F3C35C;
-@define-color bright_blue #6F8796;
-@define-color bright_magenta #C996A7;
-@define-color bright_cyan #7DB5AA;
-@define-color bright_white #FFF6E6;
+@define-color black #15161e;
+@define-color red #f7768e;
+@define-color green #9ece6a;
+@define-color yellow #e0af68;
+@define-color blue #7aa2f7;
+@define-color magenta #bb9af7;
+@define-color cyan #7dcfff;
+@define-color white #a9b1d6;
+@define-color bright_black #414868;
+@define-color bright_red #ff899d;
+@define-color bright_green #9fe044;
+@define-color bright_yellow #faba4a;
+@define-color bright_blue #8db0ff;
+@define-color bright_magenta #c7a9ff;
+@define-color bright_cyan #a4daff;
+@define-color bright_white #c0caf5;
 
 /* Base GTK theme variables */
 @define-color theme_bg_color @background;
@@ -179,12 +179,11 @@
 
 /* SVG Icons - recolor to match foreground text */
 .svg-icon {
-    filter: invert(79%) sepia(18%) saturate(611%) hue-rotate(192deg)
-        brightness(103%) contrast(94%);
+    filter: invert(82%) sepia(14%) saturate(500%) hue-rotate(200deg)
+        brightness(105%) contrast(92%);
 }
 
 /* Sharp corners, Hyprland-inspired */
 * {
     border-radius: 0;
 }
-
